@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquivos on panorama de dados</title>
-    <link>https://lwowis.github.io/arquivo/</link>
+    <link>https://panoramadedados.github.io/arquivo/</link>
     <description>Recent content in Arquivos on panorama de dados</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lwowis.github.io/arquivo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://panoramadedados.github.io/arquivo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teste</title>
-      <link>https://lwowis.github.io/arquivo/teste/</link>
+      <link>https://panoramadedados.github.io/arquivo/teste/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/arquivo/teste/</guid>
-      <description> Isto é só um teste texto çjasdhfpjshdgjfçkvasdjhfasdhfçladjfhçalsdhfjçldsahnfçlasdhfldsahfçlahfajçoshfdlasdhfjlahvuoias~hvuoasdihvsdhf~uosdhnfoudshnufõasdhufosdhaufoashçuofhsbudçof
-![img/hello.jpg]
+      <guid>https://panoramadedados.github.io/arquivo/teste/</guid>
+      <description> Isto é só um teste ![img/hello.jpg]
 Imagem [Imagem] ![Imagem]
 texto
 library(tidyverse) #Comentário sas &amp;lt;- c(&amp;quot;lol&amp;quot;, &amp;quot;lol&amp;quot;) sas  </description>
@@ -26,10 +25,10 @@ library(tidyverse) #Comentário sas &amp;lt;- c(&amp;quot;lol&amp;quot;, &amp;qu
     
     <item>
       <title>Hello Friend</title>
-      <link>https://lwowis.github.io/arquivo/hello/</link>
+      <link>https://panoramadedados.github.io/arquivo/hello/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/arquivo/hello/</guid>
+      <guid>https://panoramadedados.github.io/arquivo/hello/</guid>
       <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
 — Mr. Robot S01E01
  </description>

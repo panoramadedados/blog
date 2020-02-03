@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>panorama de dados</title>
-    <link>https://lwowis.github.io/</link>
+    <link>https://panoramadedados.github.io/</link>
     <description>Recent content on panorama de dados</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lwowis.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://panoramadedados.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teste</title>
-      <link>https://lwowis.github.io/arquivo/teste/</link>
+      <link>https://panoramadedados.github.io/arquivo/teste/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/arquivo/teste/</guid>
-      <description> Isto é só um teste texto çjasdhfpjshdgjfçkvasdjhfasdhfçladjfhçalsdhfjçldsahnfçlasdhfldsahfçlahfajçoshfdlasdhfjlahvuoias~hvuoasdihvsdhf~uosdhnfoudshnufõasdhufosdhaufoashçuofhsbudçof
-![img/hello.jpg]
+      <guid>https://panoramadedados.github.io/arquivo/teste/</guid>
+      <description> Isto é só um teste ![img/hello.jpg]
 Imagem [Imagem] ![Imagem]
 texto
 library(tidyverse) #Comentário sas &amp;lt;- c(&amp;quot;lol&amp;quot;, &amp;quot;lol&amp;quot;) sas  </description>
@@ -26,10 +25,10 @@ library(tidyverse) #Comentário sas &amp;lt;- c(&amp;quot;lol&amp;quot;, &amp;qu
     
     <item>
       <title>Hello Friend</title>
-      <link>https://lwowis.github.io/arquivo/hello/</link>
+      <link>https://panoramadedados.github.io/arquivo/hello/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/arquivo/hello/</guid>
+      <guid>https://panoramadedados.github.io/arquivo/hello/</guid>
       <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
 — Mr. Robot S01E01
  </description>
@@ -37,28 +36,28 @@ library(tidyverse) #Comentário sas &amp;lt;- c(&amp;quot;lol&amp;quot;, &amp;qu
     
     <item>
       <title>Portfolio</title>
-      <link>https://lwowis.github.io/portfolio/</link>
+      <link>https://panoramadedados.github.io/portfolio/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/portfolio/</guid>
+      <guid>https://panoramadedados.github.io/portfolio/</guid>
       <description>Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
     </item>
     
     <item>
       <title>Arquivo</title>
-      <link>https://lwowis.github.io/arquivo/</link>
+      <link>https://panoramadedados.github.io/arquivo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/arquivo/</guid>
+      <guid>https://panoramadedados.github.io/arquivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>https://lwowis.github.io/sobre/</link>
+      <link>https://panoramadedados.github.io/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lwowis.github.io/sobre/</guid>
+      <guid>https://panoramadedados.github.io/sobre/</guid>
       <description>Este é o panorama de dados My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
 We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 This theme is pretty basic and covers all of the essentials.</description>
