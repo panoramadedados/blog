@@ -15,22 +15,22 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "panorama de dados"
+    title = "Panorama de Dados"
     subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Mais"
     writtenBy = "Escrito por"
     readMore = "Ler mais"
-    readOtherPosts = "Ler outros posts"
-    newerPosts = "Posts novos"
-    olderPosts = "Posts antigos"
+    readOtherPosts = "Ler outras publicações"
+    newerPosts = "Publicações novas"
+    olderPosts = "Publicações antigas"
     minuteReadingTime = "minutos"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "panorama de dados"
+      logoText = "Panorama de Dados"
       logoHomeLink = "/"
     # or
     #
