@@ -1,0 +1,107 @@
+---
+title: "Introdução ao Git e configuração utilizando o GitHub e RStudio"
+author: "Luis Felipe Bortolatto da Cunha"
+date: "29/01/2020"
+output: html_document
+---
+
+## Introdução
+
+### O que é o Git?
+
+- O Git é um sistema de controle de versões, utilizado principalmente nas áreas de programação e análise de dados.
+
+- Ele gerencia a evolução de um conjunto de arquivos - chamado de repositório - de forma altamente estruturada.
+
+### E o que é o GitHub?
+
+- É a maior plataforma de hospedagem de repositórios.
+
+- Fica muito mais fácil trabalhar com programação e análise de dados com os repositórios salvos na nuvem, pois dessa forma é possível acessá-los de qualquer computador.
+
+- Funciona da mesma forma que outras plataformas de hospedagem (como o DropBox, OneDrive ou Google Drive), mas com muito mais funcionalidades, como a integração com o Git.
+
+- Além disso, pode funcionar como um portfólio para programadores e analistas de dados.
+
+### Vantagens
+
+- Controle de versões:
+
+- Colaboração:
+
+- Exposição: 
+
+### Pré-requisitos
+
+- Espera-se que você já tenha alguma familiaridade com a linguagem de programação R e o ambiente RStudio.
+
+## Configuração do Git utilizando o GitHub e RStudio
+
+Vai doer. Mas o Git só precisa ser configurado uma vez por computador/usuário.
+
+### Download e instalação
+
+Primeiro, você precisa [baixar o Git](https://git-scm.com/downloads).
+
+![](https://raw.githubusercontent.com/lwowis/mti/master/figuras/1_download_git.png)
+
+E seguir as instruções para a instalação do programa.
+
+![](https://raw.githubusercontent.com/lwowis/mti/master/figuras/2_instalacao_git.gif)
+
+### Configuração
+
+O git funciona como uma linguagem de programação integrada ao prompt de comando (ou bash, ou shell, ou terminal, dependendo do seu sistema operacional). Abra o prompt de comando no seu computador e digite o comando abaixo para verificar qual versão do Git foi instalada.
+
+```{bash}
+git --version
+```
+
+#```{bash}
+#git config --global user.name
+#```
+
+#```{bash}
+#git config --global user.email
+#```
+
+A partir dos comandos abaixo é possível descobrir qual é o nome de usuário e qual é o e-mail que estão configurados no seu computador, respectivamente.
+
+```{bash}
+git config user.name
+```
+
+```{bash}
+git config user.email
+```
+
+```{bash}
+git config list
+```
+
+#```{bash}
+#git config --global --unset http.proxy
+#```
+
+#```{bash}
+#git config --global --unset https.proxy
+#```
+
+#```{bash}
+#git config --global --unset-all credential.helper
+#```
+
+#```{bash}
+#git config --global credential.helper store
+#```
+
+
+## Fluxo de trabalho com o Git
+
+## Referências
+
+https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/#6
+
+https://www.curso-r.com/blog/2019-07-23-zen-do-r-4/
+
+https://happygitwithr.com/
