@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:lwowis/lwowis.github.io.git
+	branch = master
