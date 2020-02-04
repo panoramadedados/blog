@@ -27,8 +27,8 @@ disqusShortname = "lwowis"
     newerPosts = "Publicações novas"
     olderPosts = "Publicações antigas"
     minuteReadingTime = "minutos"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+    dateFormatSingle = "02-01-2006"
+    dateFormatList = "02-01-2006"
 
     [languages.en.params.logo]
       logoText = "Panorama de Dados"
