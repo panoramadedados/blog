@@ -1,5 +1,5 @@
 +++
-title = "Sobre"
+title = "Contato"
 +++
 
 ## Bem-vindo ao Panorama de Dados
